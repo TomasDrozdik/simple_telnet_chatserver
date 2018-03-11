@@ -5,7 +5,11 @@
 
 /*	TODO
  *
- * -refrector the code into more files, do Makefile 
+ * -refrector the code into more files, do Makefile
+ *
+ * -tostring/format relies on newline at the end
+ *
+ * -safety
  *
  * -consider custom C++ wrap library for send()
  *
